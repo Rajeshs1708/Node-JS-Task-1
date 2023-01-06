@@ -1,5 +1,1 @@
-PORT = 8001
-MONGO_URI=mongodb+srv://Rajesh:textfile123@text-collection.3mjl6m2.mongodb.net/?retryWrites=true&w=majority
-Heroku_link = https://text-file.herokuapp.com/
-link for Create file = https://text-file.herokuapp.com/api/add-text
-link for Get all file = https://text-file.herokuapp.com/api/get-all
+RenderDeployed_URL = 
